@@ -1,4 +1,7 @@
+*.in
+*.ans
 *.out
+*.tmp
 *.class
 *~
 solved/Intellij IDEA
